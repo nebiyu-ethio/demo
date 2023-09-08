@@ -28,7 +28,11 @@ const siteProps = {
   title: "Cloud Security Engineer",
   email: "nebiyugetachew.gelaw@studentambassadors.com",
   gitHub: "nebiyu-ethio",
+  instagram: "",
   linkedIn: "neba-gech",
+  medium: "",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
