@@ -36,6 +36,7 @@ const skillsList = [
   "Architect Design",
   "Security testing",
   "JavaScript",
+  "",
 ];
 
 /**
